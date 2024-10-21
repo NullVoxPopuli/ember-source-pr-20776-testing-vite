@@ -52,7 +52,7 @@
     "ember-page-title": "^8.2.3",
     "ember-qunit": "^8.1.0",
     "ember-resolver": "^13.0.2",
-    "ember-source": "~5.12.0",
+    "ember-source": "file:ember-source-6.1.0-alpha.1.feature-rfc-0931+ee3f8d10.tgz",
     "ember-template-lint": "^6.0.0",
     "ember-welcome-page": "^7.0.2",
     "eslint": "^9.13.0",
